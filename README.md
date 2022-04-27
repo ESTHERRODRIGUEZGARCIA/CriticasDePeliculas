@@ -19,8 +19,12 @@ En este ejercicio tenemos datos cuantitativos discretos (puntuación de una pel�
 8. Desviación típica:
 9. Varianza:
 10. Cuartiles:
+
   25% de las observaciones tienen un valor inferior a:
+  
   50% de las observaciones tienen un valor inferior a:
+  
   75% de las observaciones tienen un valor inferior a:
-12. Rango intercuartílico:
-13. Conclusión sobre los datos:
+  
+11. Rango intercuartílico:
+12. Conclusión sobre los datos:
