@@ -1,4 +1,4 @@
-# CriticasDePeliculas
+# Críticas De Pelìculas
 Ejercicio "Críticas de películas"
 
 Enlace del repositorio: https://github.com/ESTHERRODRIGUEZGARCIA/CriticasDePeliculas.git
