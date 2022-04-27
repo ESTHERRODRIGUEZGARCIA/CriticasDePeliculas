@@ -19,3 +19,8 @@ Para la realización de este ejercicio he creado un excel con los siguientes cá
 8. Desviación típica: 1,35
 9. Varianza: 1,82
 
+
+![image](https://user-images.githubusercontent.com/91721860/165625752-f4e1d4c0-b8dd-490f-a6eb-93e035770128.png)
+
+
+![image](https://user-images.githubusercontent.com/91721860/165625849-9ffbe541-1941-4e16-bc4a-fe47ebe57278.png)
