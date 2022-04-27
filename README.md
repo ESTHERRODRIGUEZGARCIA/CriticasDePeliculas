@@ -18,13 +18,4 @@ Para la realización de este ejercicio he creado un excel con los siguientes cá
 7. Rango: 5
 8. Desviación típica: 1,35
 9. Varianza: 1,82
-10. Cuartiles:
 
-    25% de las observaciones tienen un valor inferior a:
-  
-    50% de las observaciones tienen un valor inferior a:
-  
-    75% de las observaciones tienen un valor inferior a:
-  
-11. Rango intercuartílico:
-12. Conclusión sobre los datos:
