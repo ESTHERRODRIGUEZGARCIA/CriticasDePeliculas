@@ -1,4 +1,4 @@
-# Críticas De Pelìculas
+# Críticas De Películas
 Ejercicio "Críticas de películas"
 
 Enlace del repositorio: https://github.com/ESTHERRODRIGUEZGARCIA/CriticasDePeliculas.git
@@ -24,3 +24,5 @@ Para la realización de este ejercicio he creado un excel con los siguientes cá
 
 
 ![image](https://user-images.githubusercontent.com/91721860/165625849-9ffbe541-1941-4e16-bc4a-fe47ebe57278.png)
+
+
